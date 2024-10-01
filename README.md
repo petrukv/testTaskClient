@@ -1,25 +1,3 @@
-# To launche the project you should:
-
-Clone the Repository - https://github.com/petrukv/testTaskClient.git
-
-install all required packages, npm install react react-router-dom styled-components
-
-start app - npm start app
-
-# Project overview
-
-![image](https://github.com/user-attachments/assets/87a982ef-7f79-4cbf-8e06-ad3c954b56d3)
-
-![image](https://github.com/user-attachments/assets/de0000d5-3a97-479e-aaf3-97d1302dc8ca)
-
-![image](https://github.com/user-attachments/assets/ad30b4a0-79a1-4b33-9405-550c7185cd5f)
-
-![image](https://github.com/user-attachments/assets/94ae942e-e3d2-476e-b02b-0569e69f5947)
-
-![image](https://github.com/user-attachments/assets/dbe11cc0-2dbe-4d7d-80ca-6dec19ddaeea)
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
